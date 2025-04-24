@@ -1,0 +1,38 @@
+_repo: Das-Totenschiff-b-Die-Geschichte-eine-amerikanischen-Seemanns_75907
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traven, B.
+    aliases:
+    - Feige, Hermann Albert Otto Max
+    - Wienecke, Albert Otto Max
+    - Marut, Ret
+    - Torsvan, Berick Traven
+    - Croves, Hal
+    birthdate: 1882
+    deathdate: 1969
+    gutenberg_agent_id: '53904'
+    url: http://www.gutenberg.org/2009/agents/53904
+    wikipedia:
+    - https://en.wikipedia.org/wiki/B._Traven
+    - https://de.wikipedia.org/wiki/B._Traven
+description: ''
+gutenberg_issued: '2025-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75907'
+language: de
+pgterms:marc904: https://catalog.hathitrust.org/Record/003529464?type%5B%5D=author&lookfor%5B%5D=traven%20&sort=yearup&ft=
+pgterms:marc905: 20220101062540traven
+pgterms:marc906: '1926'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the HathiTrust Digital Library.
+publication_note: '  $aBerlin :$bBuchmeister, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Das Totenschiff : $b Die Geschichte eine amerikanischen Seemanns'
+url: http://www.gutenberg.org/ebooks/75907
